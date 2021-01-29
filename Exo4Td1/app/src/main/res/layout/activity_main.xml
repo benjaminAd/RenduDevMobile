@@ -9,4 +9,16 @@
         android:layout_height="wrap_content"
         android:text="@string/mainbutton" />
 
+    <Button
+        android:id="@+id/secondaryButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/secondButton" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/textView"
+        android:visibility="invisible" />
 </LinearLayout>
