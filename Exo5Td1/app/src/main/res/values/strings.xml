@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exo5Td1</string>
+    <string name="linux_box">Linux</string>
+    <string name="macos_box">macos</string>
+    <string name="windows_box">windows</string>
+    <string name="display_label">Afficher</string>
+</resources>
