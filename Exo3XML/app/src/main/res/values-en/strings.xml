@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exo3XML</string>
+    <string name="label1">Lastname</string>
+    <string name="label2">Firstname</string>
+    <string name="label3">Age</string>
+    <string name="label5">Submit</string>
+    <string name="label6">Phone number</string>
+    <string name="label4">" Areas of expertise"</string>
+</resources>

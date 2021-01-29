@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Exo3Java</string>
+    <string name="label1">Nom</string>
+    <string name="label2">Prénom</string>
+    <string name="label3">Âge</string>
+    <string name="label4">Domaine de compétence</string>
+    <string name="label5">Numéro de téléphone</string>
+    <string name="label6">Valider</string>
+</resources>
