@@ -3,4 +3,6 @@
     <string name="menu_settings">Settings</string>
     <string name="button_label">Show message</string>
     <string name="image_content">image</string>
+    <string name="textview">Ma première application Android</string>
+    <string name="Hint">Entrez du texte</string>
 </resources>
