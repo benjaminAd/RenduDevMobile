@@ -11,4 +11,10 @@
         android:layout_height="wrap_content"
         android:text="Hello, I am a TextView" />
 
+    <EditText
+        android:id="@+id/EditText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Entrez du texte" />
+
 </LinearLayout>
